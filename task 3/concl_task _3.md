@@ -4,8 +4,7 @@
 
 
 ```markdown
-![Діаграма результатів](task 3/Figure_1.png)
-
+![Діаграма результатів](http://github.com/goit-algo-hw-05/blob/main/task%203/Figure_1.png)
 
 
 
