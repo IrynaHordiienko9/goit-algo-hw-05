@@ -77,9 +77,9 @@ algorithms = {
 }
 
 
-with open('article 1 for task 3.txt', encoding='utf-8') as f:
+with open('task 3/article 1 for task 3.txt', encoding='utf-8') as f:
     text1 = f.read()
-with open('article 2 for task 3.txt', encoding='utf-8') as f:
+with open('task 3/article 2 for task 3.txt', encoding='utf-8') as f:
     text2 = f.read()
 
 
