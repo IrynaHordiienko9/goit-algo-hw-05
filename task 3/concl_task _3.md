@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 ![Діаграма результатів](https://github.com/IrynaHordiienko9/goit-algo-hw-05/blob/main/task%203/Figure_1.png))
 
 
