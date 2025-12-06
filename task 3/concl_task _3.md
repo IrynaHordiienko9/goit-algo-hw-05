@@ -3,7 +3,7 @@
 
 ## Діаграма порівняння алгоритмів
 
-task 3/Figure_1.png
+**task 3/Figure_1.png**
 
 
 
